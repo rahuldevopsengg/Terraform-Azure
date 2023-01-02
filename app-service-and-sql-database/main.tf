@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "RG-Terraform" {
   name     = "terraform-resource-group"
-  location = "West Europe"
+  location = "Central India"
 }
 
 resource "azurerm_app_service_plan" "ASP-TerraForm" {
